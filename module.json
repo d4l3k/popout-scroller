@@ -1,0 +1,11 @@
+{
+  "name": "popout-scroller",
+  "title": "Popout Scroller",
+  "description": "makes popout windows scrollable",
+  "author": "d4l3k",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7.9",
+  "styles": [
+    "popout-scroller.css"
+  ]
+}

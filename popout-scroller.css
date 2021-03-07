@@ -1,0 +1,6 @@
+body.flex-col {
+  overflow: auto;
+}
+.pop__window {
+  margin: 0;
+}
